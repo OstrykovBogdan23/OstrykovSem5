@@ -1,0 +1,4 @@
+/home/bohdano/CourseWork/OstrykovSem5/lab2sp/build/CMakeFiles/mylib.dir
+/home/bohdano/CourseWork/OstrykovSem5/lab2sp/build/CMakeFiles/lab2.dir
+/home/bohdano/CourseWork/OstrykovSem5/lab2sp/build/CMakeFiles/edit_cache.dir
+/home/bohdano/CourseWork/OstrykovSem5/lab2sp/build/CMakeFiles/rebuild_cache.dir
